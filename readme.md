@@ -1,7 +1,17 @@
-#Introduction
+# Introduction
 
-This repo is to coordinate work for the CL manuscript in 2024. It will be kept private for now, and invite to join will be issued accordingly. This might change in the future
+This repo contains code and data used in the manuscript 'The Cell Ontology in the age of single-cell omics'.
 
-#Links
-- [Initial NAR proposal](https://docs.google.com/document/d/1jxXSP3VFsDmZFcKslKOe0i_H7VJ_m__5g4AJ-phgflE/edit)
-- [Working doc](https://docs.google.com/document/d/137r82M_K-y0gKv-GN1fwYKZ2SDdwDCO82bSqn74AFxE/edit?usp=sharing)
+## diffs 
+
+Contains diffs comparing key dates in the development of the Cell Ontology which we used to analyse the progression and narrative of CL. 
+
+## github-stats 
+
+Contains code that was used to fetch stats from github.
+
+## Links
+
+- [Cell Ontology](https://cell-ontology.github.io/)
+- [Cell Ontology GitHub](https://github.com/obophenotype/cell-ontology)
+- [Cell Ontology OLS](https://www.ebi.ac.uk/ols/ontologies/cl)
